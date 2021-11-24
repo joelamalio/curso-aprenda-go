@@ -1,3 +1,8 @@
+/*
+- Escreva expressões utilizando os operadores, e atribua seus valores a variáveis.
+- Demonstre estes valores.
+*/
+
 package main
 
 import (

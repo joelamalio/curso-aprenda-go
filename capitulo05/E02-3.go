@@ -1,3 +1,8 @@
+/*
+- Crie constantes tipadas e não-tipadas.
+- Demonstre seus valores.
+*/
+
 package main
 
 import (
